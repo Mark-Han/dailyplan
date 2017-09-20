@@ -28,3 +28,14 @@
 
 - [ ]: 09:45~11:20 Zhangwei's report
 - [ ]: 12:45~13:45  reading novels and En-news for at least 30 min
+- [ ]: 14:00~17:20  Zhangwei's report
+
+---
+> 
+
+## 21 Sep., 2017
+
+- [ ]: 8:00~9:00 literature
+- [ ]: 9:30~10:00 Fourier Transform
+- [ ]: 10:00~11:00 Simulation (nonreciprocal trans)
+- 
